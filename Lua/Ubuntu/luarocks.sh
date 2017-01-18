@@ -6,3 +6,9 @@ tar zxpf "luarocks-$luarocks_version.tar.gz"
 cd "luarocks-$luarocks_version"
 ./configure
 sudo make bootstrap
+
+# install module
+sudo luarocks install htmlparser #
+
+sudo apt-get install libssl-dev
+sudo luarocks install luasec # you may need libssl-dev
