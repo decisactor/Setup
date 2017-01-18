@@ -1,2 +1,2 @@
-# UbuntuSetup
-Ubuntu Setup Bash Script about some framework and applications
+# Setup
+Setup instruction for developing enviroment
