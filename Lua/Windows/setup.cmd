@@ -1,4 +1,6 @@
-cd C:\Users\decisacter\Downloads\Compressed\luarocks-2.4.2-win32\
+cd C:\Users\decisacter\Downloads\
+git clone https://github.com/luarocks/luarocks.git
+cd luarocks
 ./install.bat /LUA c:\lua\5.3\
 
 SET PATH=%PATH%;C:\Program Files (x86)\LuaRocks
