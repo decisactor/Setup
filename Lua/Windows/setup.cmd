@@ -1,11 +1,11 @@
 cd C:\Users\decisacter\Downloads\
 git clone https://github.com/luarocks/luarocks.git
 cd luarocks
-./install.bat /LUA c:\lua\5.3\
+./install.bat /LUA c:\lua\5.3\ :: you may need to change the version
 
 SET PATH=%PATH%;C:\Program Files (x86)\LuaRocks
 
-::you may add the following to the path
+::you may need to add the following to the path
 ::Lua interpreter;                                                                                                     
 ::PATH     :   c:\lua\5.3\bin                                                                                          
 ::PATHEXT  :   .LUA
