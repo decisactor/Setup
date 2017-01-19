@@ -9,5 +9,6 @@ build.cmd <br>
 setup.cmd <br>
 Download [luarocks](http://luarocks.github.io/luarocks/releases/) and run setup.cmd
 
-* [luasec](https://luarocks.org/modules/brunoos/luasec) - get webpage content (including [luasocket](https://luarocks.org/modules/luarocks/luasocket))
+* [luasocket](https://luarocks.org/modules/luarocks/luasocket) - require visual c++ build tool 
+* [luasec](https://luarocks.org/modules/brunoos/luasec) - get webpage content, require openssl download from https://slproweb.com/products/Win32OpenSSL.html and run $ luarocks install luasec OPENSSL_DIR=C:\OpenSSL-Win32\  
 * [htmlparser](https://luarocks.org/modules/luarocks/htmlparser) - parse html string
