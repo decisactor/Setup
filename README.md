@@ -5,7 +5,7 @@ Setup Code for developing enviroment and Operating System </br>
 
 2. Using Git Command to fetch the shell script from github and run it. </br>
 
-To do
-1. Using Shell Script to Adjust Settings
-2. Download Small Installer by Script, Large File by Torrent
-3. BitTorrent, Visual Studio Code, Opera Browser(XX-Net, Lantern, 
+To do </br>
+1. Using Shell Script to Adjust Settings </br>
+2. Download Small Installer by Script, Large File by Torrent </br>
+3. BitTorrent, Visual Studio Code, Opera Browser(XX-Net, Lantern,  </br>
